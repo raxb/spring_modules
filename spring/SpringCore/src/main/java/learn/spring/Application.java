@@ -1,4 +1,4 @@
-package learn.spring.aop;
+package learn.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
