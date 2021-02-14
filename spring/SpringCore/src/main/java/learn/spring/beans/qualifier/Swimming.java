@@ -1,8 +1,8 @@
 package learn.spring.beans.qualifier;
 
 import learn.spring.beans.Sport;
-import learn.spring.beans.cutom_qualifier.Indoor;
-import learn.spring.beans.cutom_qualifier.Multiplayer;
+import learn.spring.beans.custom_qualifier.Indoor;
+import learn.spring.beans.custom_qualifier.Multiplayer;
 import org.springframework.stereotype.Component;
 
 @Component

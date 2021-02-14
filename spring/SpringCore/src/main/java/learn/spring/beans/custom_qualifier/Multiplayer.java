@@ -1,4 +1,4 @@
-package learn.spring.beans.cutom_qualifier;
+package learn.spring.beans.custom_qualifier;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 

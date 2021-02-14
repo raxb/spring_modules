@@ -1,8 +1,8 @@
 package learn.spring;
 
 import learn.spring.beans.Sport;
-import learn.spring.beans.cutom_qualifier.Multiplayer;
-import learn.spring.beans.cutom_qualifier.Outdoor;
+import learn.spring.beans.custom_qualifier.Multiplayer;
+import learn.spring.beans.custom_qualifier.Outdoor;
 import learn.spring.config.ApplicationConfiguration;
 import org.junit.Rule;
 import org.junit.Test;

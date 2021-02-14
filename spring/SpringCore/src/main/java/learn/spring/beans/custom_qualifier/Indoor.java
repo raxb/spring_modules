@@ -1,4 +1,4 @@
-package learn.spring.beans.cutom_qualifier;
+package learn.spring.beans.custom_qualifier;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 
@@ -10,5 +10,5 @@ import java.lang.annotation.Target;
 @Target({ElementType.FIELD, ElementType.METHOD, ElementType.PARAMETER, ElementType.TYPE, ElementType.ANNOTATION_TYPE})
 @Retention(RetentionPolicy.RUNTIME)
 @Qualifier
-public @interface Outdoor {
+public @interface Indoor {
 }
