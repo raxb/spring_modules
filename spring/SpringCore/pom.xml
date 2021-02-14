@@ -10,7 +10,6 @@
         <relativePath>../pom.xml</relativePath> <!--  the parent is not yet installed and lookup parent from repository
          -->
     </parent>
-    <groupId>learn.spring</groupId>
     <artifactId>spring-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-core</name>
